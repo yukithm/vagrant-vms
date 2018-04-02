@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/codegangsta/cli"
 	"github.com/olekukonko/tablewriter"
+	"github.com/urfave/cli"
 )
 
 func vmsCommand(c *cli.Context) {

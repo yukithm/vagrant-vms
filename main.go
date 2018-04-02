@@ -1,6 +1,6 @@
 package main
 
-import "github.com/codegangsta/cli"
+import "github.com/urfave/cli"
 
 const (
 	// ApplicationName is the name of this application.

@@ -5,9 +5,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/codegangsta/cli"
 	"github.com/mitchellh/go-homedir"
 	"github.com/olekukonko/tablewriter"
+	"github.com/urfave/cli"
 )
 
 var boxesDetailTemplate = `

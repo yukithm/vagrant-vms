@@ -5,8 +5,8 @@ import (
 	"os"
 	"text/template"
 
-	"github.com/codegangsta/cli"
 	"github.com/olekukonko/tablewriter"
+	"github.com/urfave/cli"
 )
 
 var statusDetailTemplate = `

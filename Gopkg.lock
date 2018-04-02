@@ -2,11 +2,6 @@
 
 
 [[projects]]
-  name = "github.com/codegangsta/cli"
-  packages = ["."]
-  revision = "4733699ce30faa633c4db36ebfbe427963593d7d"
-
-[[projects]]
   name = "github.com/mattn/go-runewidth"
   packages = ["."]
   revision = "d6bea18f789704b5f83375793155289da36a3c7f"
@@ -22,9 +17,15 @@
   packages = ["."]
   revision = "cca8bbc0798408af109aaaa239cbd2634846b340"
 
+[[projects]]
+  name = "github.com/urfave/cli"
+  packages = ["."]
+  revision = "cfb38830724cc34fedffe9a2a29fb54fa9169cd1"
+  version = "v1.20.0"
+
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "3f2a9860e9c3cb1808db124f4f0e9f5cb2b2c01bab2170ace6bd89456e2eaac7"
+  inputs-digest = "975e9f06d2acd44aef33bea57ac4f1361461da90bd039b7d8c2cf8562e1fbfb6"
   solver-name = "gps-cdcl"
   solver-version = 1
