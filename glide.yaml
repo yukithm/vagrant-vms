@@ -1,5 +1,0 @@
-package: github.com/yukithm/vagrant-vms
-import:
-- package: github.com/codegangsta/cli
-- package: github.com/mitchellh/go-homedir
-- package: github.com/olekukonko/tablewriter
